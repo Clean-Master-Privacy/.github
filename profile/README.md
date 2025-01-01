@@ -13,3 +13,9 @@ Threats:
 -------------------------------------------------------------------------------------------------------
 IF WE ARE SUBJECT TO A CYBER ATTACK, AFTER A CERTAIN TIME, WITHOUT ANY THINK, WE WILL ORGANIZE A WILD COUNTER ATTACK ON YOU WITH OUR ENTIRE ARMY!
 --------------------------------------------------------------------------------------------------------
+License
+--------------------------------------------------------------------------------------------------------
+Licensed by gamestime102 for 2025-2026 and beyond.
+
+The code and data files in this distribution are licensed under the GNU General Public License, version 3 or any later version, as published by the Free Software Foundation. For a copy of this license, see https://www.gnu.org/licenses/.
+--------------------------------------------------------------------------------------------------------
