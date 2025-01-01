@@ -7,3 +7,5 @@ January 1, 2025 06:00: Data was retrieved and encrypted.
 January 1, 2025 10:00: Problems resolved.
 
 January 1, 2025 10:30: We have become completely open source with a license.
+
+January 1, 2025 11:20: We were openly threatened.
