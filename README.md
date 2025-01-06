@@ -23,45 +23,45 @@ January 01, 2025 21:20: We were attacked.
 January 2, 2025 reports:
 ---------------------------------------------------
 
-January 2, 2025 00:00: All application data crashed.
+January 02, 2025 00:00: All application data crashed.
 
-January 2, 2025 06:00: Data received and encrypted.
+January 02, 2025 06:00: Data received and encrypted.
 
-January 2, 2025 10:00: Problems resolved.
+January 02, 2025 10:00: Problems resolved.
 
-January 2, 2025 10:30: We decided to change the license.
+January 02, 2025 10:30: We decided to change the license.
 
-January 2, 2025 11:20: We were clearly threatened.
+January 02, 2025 11:20: We were clearly threatened.
 
 January 2, 2025 20:20: Feature testing started.
 
-January 2, 2025 21:00: Feature testing failed.
+January 02, 2025 21:00: Feature testing failed.
 
-January 2, 2025 21:20: We were attacked.
+January 02, 2025 21:20: We were attacked.
 
-January 2, 2025 21:20: Junk file cleaning and antivirus updated.
+January 02, 2025 21:20: Junk file cleaning and antivirus updated.
 
 ---------------------------------------------------
 January 3, 2025 reports:
 ---------------------------------------------------
 
-January 3, 2025 00:00: All applications have been evaluated for potential bugs.
+January 03, 2025 00:00: All applications have been evaluated for potential bugs.
 
-January 3, 2025 06:00: All applications have been tested for errors.
+January 03, 2025 06:00: All applications have been tested for errors.
 
-January 3, 2025 10:00: Issues have been resolved.
+January 03, 2025 10:00: Issues have been resolved.
 
-January 3, 2025 10:30: All application stability has been improved.
+January 03, 2025 10:30: All application stability has been improved.
 
-January 3, 2025 11:20: Add-ons to security software.
+January 03, 2025 11:20: Add-ons to security software.
 
-January 3, 2025 20:20: Feature testing has begun.
+January 03, 2025 20:20: Feature testing has begun.
 
-January 3, 2025 21:00: Feature testing has failed.
+January 03, 2025 21:00: Feature testing has failed.
 
-January 3, 2025 21:20: Additional details to scanning and acceleration engines..
+January 03, 2025 21:20: Additional details to scanning and acceleration engines..
 
-January 3, 2025 21:20: Junk file cleaning and antivirus updated.
+January 03, 2025 21:20: Junk file cleaning and antivirus updated.
 
 ---------------------------------------------------
 January 4, 2025 reports:
@@ -81,9 +81,32 @@ January 04, 2025 20:20: Feature testing has begun.
 
 January 04, 2025 21:00: Feature testing has passed.
 
-January 04, 2025 21:20: Additional details to scanning and acceleration engines..
+January 04, 2025 21:20: Additional details to scanning and acceleration engines.
 
 January 04, 2025 21:20: Junk file cleaning and antivirus functions have been updated.
+
+
+---------------------------------------------------
+January 5, 2025 reports:
+---------------------------------------------------
+
+January 05, 2025 00:00: All application security testing.
+
+January 05, 2025 06:00: Error testing for the entire application was done.
+
+January 05, 2025 10:00: Issues resolved.
+
+January 05, 2025 10:30: All application stability increased.
+
+January 05, 2025 11:20: Add-ons to security software.
+
+January 05, 2025 20:20: Feature testing started.
+
+January 05, 2025 21:00: Feature testing passed.
+
+January 05, 2025 21:20: Additional details to scanning and acceleration engines..
+
+January 05, 2025 21:20: Junk file cleaning and antivirus functions updated.
 
 
 
