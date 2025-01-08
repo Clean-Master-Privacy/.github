@@ -9,10 +9,6 @@ Project developments:
 ------------------------------------------------------------------------------------------------------
 Clean Master Privacy project was stopped for a while due to financial resources. Later, gamestime102 and gamestime102tv revived the project. There was a significant data loss after the project development was stopped, but the gamestime102 team is working to replace the lost codes with new ones.
 
-Threats:
--------------------------------------------------------------------------------------------------------
-IF WE ARE SUBJECT TO A CYBER ATTACK, AFTER A CERTAIN TIME, WITHOUT ANY THINK, WE WILL ORGANIZE A WILD COUNTER ATTACK ON YOU WITH OUR ENTIRE ARMY!
-
 License
 --------------------------------------------------------------------------------------------------------
 Licensed by gamestime102 for 2025-2026 and beyond.
