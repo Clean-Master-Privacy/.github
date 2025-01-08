@@ -9,6 +9,14 @@ Project developments:
 ------------------------------------------------------------------------------------------------------
 Clean Master Privacy project was stopped for a while due to financial resources. Later, gamestime102 and gamestime102tv revived the project. There was a significant data loss after the project development was stopped, but the gamestime102 team is working to replace the lost codes with new ones.
 
+Contribute
+------------------------------------------------------------------------------------------------------
+We have recently rebuilt the app and focused on our current feature and fix roadmap. Therefore, we are not currently accepting new issues or PRs: feel free to fork the repository for your own experiments. Thank you for your understanding and support.
+
+income and donations
+-------------------------------------------------------------------------------------------------------
+We will donate some of the proceeds to charities and companies.
+
 License
 --------------------------------------------------------------------------------------------------------
 Licensed by gamestime102 for 2025-2026 and beyond.
