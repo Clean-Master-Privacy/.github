@@ -20,7 +20,7 @@ We will donate some of the proceeds to charities and companies.
 We support Proton AG
 --------------------------------------------------------------------------------------------------------
 <img src="https://github.com/user-attachments/assets/8472e1a0-5605-404e-b906-1e8b69275595" height="100">
-<img src="https://github.com/user-attachments/assets/30ceabf7-8768-4fe9-989a-6389642e7084" height="70">
+<img src="https://github.com/user-attachments/assets/30ceabf7-8768-4fe9-989a-6389642e7084" height="100">
 <img src="https://github.com/user-attachments/assets/89e1abd5-f0e4-4f39-a2aa-14b37e5ead2a" height="100">
 <img src="https://github.com/user-attachments/assets/8256fb3c-dc15-40f2-bcce-44fd98f30adc" height="100">
 <img src="https://github.com/user-attachments/assets/8243f98a-e306-40ef-82e8-cd9ff68b41ee" height="100">
