@@ -20,7 +20,7 @@ We will donate some of the proceeds to charities and companies.
 We support Proton AG
 --------------------------------------------------------------------------------------------------------
 <img src="https://github.com/user-attachments/assets/67a539e3-ae9c-443c-8d20-c745292d8388" 
-height="75">
+height="100">
 
 License
 --------------------------------------------------------------------------------------------------------
