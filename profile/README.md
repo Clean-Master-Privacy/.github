@@ -27,9 +27,7 @@ We support Proton AG
 
 <img src="https://github.com/user-attachments/assets/8256fb3c-dc15-40f2-bcce-44fd98f30adc" height="100">
 <img src="https://github.com/user-attachments/assets/8243f98a-e306-40ef-82e8-cd9ff68b41ee" height="100">
-<img src="https://github.com/user-attachments/assets/9b32e695-fc63-4e1d-9234-63cd77f1e93b" height="100">
-
-<img src="     https://github.com/user-attachments/assets/1a9acf85-cfd0-4627-99a9-579f2eaa3fe1" height="55">
+<img src="https://github.com/user-attachments/assets/9b32e695-fc63-4e1d-9234-63cd77f1e93b" height="100"> <img src="https://github.com/user-attachments/assets/1a9acf85-cfd0-4627-99a9-579f2eaa3fe1" height="55">
 
 Thanks to Proton AG, we found our own identity and are now independent.
 
