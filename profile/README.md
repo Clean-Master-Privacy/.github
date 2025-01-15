@@ -6,7 +6,7 @@ Clean Master privacy product was first created by 2 anonymous people who founded
 Although this army was disbanded over time, it was reactivated on April 21, 2021. Clean master privacy, a sub-unit of Kapıkulu, is sipahi, this sipahi is responsible for the security of the internet and the device. 
 
 Project developments:
-------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 Clean Master Privacy project was stopped for a while due to financial resources. Later, gamestime102 and gamestime102tv revived the project. There was a significant data loss after the project development was stopped, but the gamestime102 team is working to replace the lost codes with new ones.
 
 Contribute
@@ -22,6 +22,8 @@ We support Proton AG
 <img src="https://github.com/user-attachments/assets/8472e1a0-5605-404e-b906-1e8b69275595"
 height="100">
 <img src="https://github.com/user-attachments/assets/30ceabf7-8768-4fe9-989a-6389642e7084"
+height="100">
+<img src="https://github.com/user-attachments/assets/c7c58061-1d01-41be-a721-48542048fcef"
 height="100">
 
 License
