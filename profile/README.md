@@ -32,7 +32,7 @@ height="100">
 <img src="https://github.com/user-attachments/assets/9b32e695-fc63-4e1d-9234-63cd77f1e93b"
 height="100">
 <img src="https://github.com/user-attachments/assets/1a9acf85-cfd0-4627-99a9-579f2eaa3fe1"
-height="70">
+height="60">
 
 License
 --------------------------------------------------------------------------------------------------------
