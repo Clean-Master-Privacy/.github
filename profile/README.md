@@ -21,7 +21,7 @@ We support Proton AG
 --------------------------------------------------------------------------------------------------------
 <img src="https://github.com/user-attachments/assets/8472e1a0-5605-404e-b906-1e8b69275595"
 height="100">
-<img src="https://github.com/user-attachments/assets/95d479c9-9d66-40c1-bc65-4dfb739647af"
+<img src="https://github.com/user-attachments/assets/30ceabf7-8768-4fe9-989a-6389642e7084"
 height="100">
 
 License
