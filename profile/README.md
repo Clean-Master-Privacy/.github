@@ -29,6 +29,7 @@ We support Proton AG
 
 <img src="https://github.com/user-attachments/assets/1a9acf85-cfd0-4627-99a9-579f2eaa3fe1" height="60">
 
+# Thanks to Proton AG, we found our own identity and are now independent.
 License
 --------------------------------------------------------------------------------------------------------
 Licensed by gamestime102 for 2025-2026 and beyond.
