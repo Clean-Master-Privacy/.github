@@ -19,7 +19,7 @@ We will donate some of the proceeds to charities and companies.
 
 We support Proton AG
 --------------------------------------------------------------------------------------------------------
-blob:https://drive.proton.me/708626e5-c334-440b-b458-e805ab183ebc
+![](https://drive.proton.me/708626e5-c334-440b-b458-e805ab183ebc)
 
 License
 --------------------------------------------------------------------------------------------------------
