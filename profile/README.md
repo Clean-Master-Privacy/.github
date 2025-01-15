@@ -1,4 +1,4 @@
-![Proton Foundation purple](https://github.com/user-attachments/assets/67a539e3-ae9c-443c-8d20-c745292d8388)Clean master privacy product belongs to gamestime102.
+Clean master privacy product belongs to gamestime102.
 ------------------------------------------------------------------------------------------------------
 About us:
 ------------------------------------------------------------------------------------------------------
@@ -19,6 +19,7 @@ We will donate some of the proceeds to charities and companies.
 
 We support Proton AG
 --------------------------------------------------------------------------------------------------------
+![Proton Foundation purple](https://github.com/user-attachments/assets/67a539e3-ae9c-443c-8d20-c745292d8388)
 ![<svg width="873" height="512" viewBox="0 0 873 512" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="873" height="512" fill="white"/>
 <path d="M115.801 397.698V322.116H160.844V331.675H126.255V355.461H159.287V365.02H126.255V397.698H115.801Z" fill="#6D4AFF"/>
