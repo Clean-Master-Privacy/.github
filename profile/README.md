@@ -19,7 +19,7 @@ We will donate some of the proceeds to charities and companies.
 
 We support Proton AG
 --------------------------------------------------------------------------------------------------------
-<img class="file-preview-image file-preview-image-full-size" style="height: 455px; width: 775.811px;" >
+<img class="file-preview-image file-preview-image-full-size" style="height: 45px; width: 77px;">
 
 License
 --------------------------------------------------------------------------------------------------------
