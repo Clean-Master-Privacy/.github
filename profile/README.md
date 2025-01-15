@@ -26,5 +26,4 @@ The code and data files in this distribution are licensed under the GNU General 
 
 proton
 --------------------------------------------------------------------------------------------------------
-<img src="https://drive.proton.me/1e551a3c-8d5d-41bb-b755-a8c3838f7c12">
-<div class="file-preview-image file-preview-image-full-size" style="height: 455px; width: 775.811px; background: repeating-conic-gradient(rgb(96, 96, 96) 0%, rgb(96, 96, 96) 25%, transparent 0%, transparent 50%) 0% 0% / 40px 40px; transform: scale(0.99);"></div>
+
