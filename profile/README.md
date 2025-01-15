@@ -19,7 +19,7 @@ We will donate some of the proceeds to charities and companies.
 
 We support Proton AG
 --------------------------------------------------------------------------------------------------------
-![](https://drive.proton.me/708626e5-c334-440b-b458-e805ab183ebc)
+src="blob:https://drive.proton.me/1e551a3c-8d5d-41bb-b755-a8c3838f7c12" alt="Proton Foundation purple.png: tam boyutlu görsel">
 
 License
 --------------------------------------------------------------------------------------------------------
