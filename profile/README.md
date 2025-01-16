@@ -44,9 +44,9 @@ Licensed by gamestime102 for 2025-2026 and beyond.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Buton Örneği</title>
+    <title>.md Dosyasına Git</title>
 </head>
 <body>
-    <button onclick="window.location.href='https://clean-master-privacy.github.io/applications/#';">Buraya Git</button>
+    <button onclick="window.location.href='path_to_your_file.md';">Markdown Dosyasını Görüntüle</button>
 </body>
 </html>
