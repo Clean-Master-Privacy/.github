@@ -30,30 +30,35 @@ We support Proton AG
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hareketli Metin Örneği</title>
+    <title>Geçişli Metin Örneği</title>
     <style>
         .container {
             display: flex;
             align-items: center;
             position: relative;
         }
-
-        .animated-text {
-            display: inline-block;
+        .text {
             margin-left: 10px;
-            animation: move 5s linear infinite;
+            transition: all 5s linear;
         }
-
-        @keyframes move {
-            0% {
-                transform: translateX(0);
-            }
-            50% {
-                transform: translateX(20px); /* Sağ tarafa kaydırma */
-            }
-            100% {
-                transform: translateX(0);
-            }
+        .text.show {
+            margin-left: 200px;
+            color: blue;
+            transform: translateX(0);
+        }
+        .text.hide {
+            margin-left: 0;
+            color: black;
+            transform: translateX(-200px);
+        }
+        .button {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: #ccc;
         }
     </style>
 </head>
@@ -62,10 +67,15 @@ We support Proton AG
         <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
             <circle cx="50" cy="50" r="40" fill="blue" />
         </svg>
-        <span class="animated-text">
-            Thanks to Proton AG, we found our own identity and are now
-        </span>
+        <span class="text hide">Thanks to Proton AG, we found our own identity and are now</span>
+        <button class="button">Görüntüle</button>
     </div>
+    <script>
+        document.querySelector('.button').addEventListener('click', function() {
+            document.querySelector('.text').classList.toggle('show');
+            document.querySelector('.text').classList.toggle('hide');
+        });
+    </script>
 </body>
 </html>
 
