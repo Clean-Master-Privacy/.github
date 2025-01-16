@@ -1,7 +1,6 @@
 About us:
 ------------------------------------------------------------------------------------------------------
 <img src="https://avatars.githubusercontent.com/u/185417194?s=200&v=4" alt="proton" size="" height="200" width="1000" data-view-component="true">
-<span style="position: absolute; top: 0; left: 0; width: 1000; height: 200; display: flex; justify-content: center; align-items: center; color: white; font-size: 36px; font-weight: bold;">Clean master privacy product belongs to gamestime102.</span>
 
 Clean master privacy product belongs to gamestime102.
 ------------------------------------------------------------------------------------------------------
