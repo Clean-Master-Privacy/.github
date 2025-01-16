@@ -39,4 +39,14 @@ Licensed by gamestime102 for 2025-2026 and beyond.
 
 # our website
 
-https://clean-master-privacy.github.io/applications/#
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buton Örneği</title>
+</head>
+<body>
+    <button onclick="window.location.href='https://clean-master-privacy.github.io/applications/#';">Buraya Git</button>
+</body>
+</html>
