@@ -27,11 +27,10 @@ We heard about our independence on April 21, 2021, now we are taking new steps t
 
 # License
 
-# Clean master privacy product belongs to gamestime102.
-
+Clean master privacy product belongs to gamestime102.
+#                                                 
 Licensed by gamestime102 for 2025-2026 and beyond.
 #                                                     
-
 The code and data files in this distribution are licensed under the GNU General Public License, version 3 or any later version, as published by the Free Software Foundation. For a copy of this license, see https://www.gnu.org/licenses/.
 
 # We support Proton AG
