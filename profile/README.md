@@ -28,6 +28,7 @@ We heard about our independence on April 21, 2021, now we are taking new steps t
 # License
 
 Clean master privacy product belongs to gamestime102.
+-------------------------------------------------------
 #                                                 
 Licensed by gamestime102 for 2025-2026 and beyond.
 #                                                     
