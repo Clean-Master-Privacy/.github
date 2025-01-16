@@ -29,29 +29,31 @@ We support Proton AG
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Geçişli Metin Örneği</title>
-    <style>
-        .container {
-            display: flex;
-            align-items: center;
-            position: relative;
-        }
+    <title>Geçişli Metin</title>
 </head>
 <body>
-    <div class="container">
-        <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-            <circle cx="50" cy="50" r="40" fill="blue" />
-        </svg>
-        <span class="text hide">Thanks to Proton AG, we found our own identity and are now</span>
-        <button class="button">Görüntüle</button>
+    <div id="text-container">
+        <span id="text" style="display:none;">Bu metin bir geçiş ile görünecek.</span>
     </div>
-<------->
+    <button id="toggle-button">Göster/Gizle</button>
     <script>
-        document.querySelector('.button').addEventListener('click', function() {
-            document.querySelector('.text').classList.toggle('show');
-            document.querySelector('.text').classList.toggle('hide');
+        const text = document.getElementById('text');
+        const button = document.getElementById('toggle-button');
+        button.addEventListener('click', () => {
+            if (text.style.display === 'none') {
+                text.style.display = 'block';
+                setTimeout(() => {
+                    text.style.opacity = 1;
+                }, 10);
+            } else {
+                text.style.opacity = 0;
+                setTimeout(() => {
+                    text.style.display = 'none';
+                }, 500); // animasyon süresi
+            }
         });
+        // başlangıç opaklığını ayarlama
+        text.style.opacity = 0;
     </script>
 </body>
 </html>
