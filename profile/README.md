@@ -39,4 +39,4 @@ Licensed by gamestime102 for 2025-2026 and beyond.
 
 # our website
 
-<txt src="https://clean-master-privacy.github.io/applications/#">
+src="https://clean-master-privacy.github.io/applications/#
