@@ -37,30 +37,6 @@ We support Proton AG
             align-items: center;
             position: relative;
         }
-        .text {
-            margin-left: 10px;
-            transition: all 5s linear;
-        }
-        .text.show {
-            margin-left: 200px;
-            color: blue;
-            transform: translateX(0);
-        }
-        .text.hide {
-            margin-left: 0;
-            color: black;
-            transform: translateX(-200px);
-        }
-        .button {
-            position: absolute;
-            top: 10px;
-            left: 10px;
-            cursor: pointer;
-        }
-        .button:hover {
-            background-color: #ccc;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
@@ -70,6 +46,7 @@ We support Proton AG
         <span class="text hide">Thanks to Proton AG, we found our own identity and are now</span>
         <button class="button">Görüntüle</button>
     </div>
+<------->
     <script>
         document.querySelector('.button').addEventListener('click', function() {
             document.querySelector('.text').classList.toggle('show');
