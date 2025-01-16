@@ -13,12 +13,12 @@ Contribute
 ------------------------------------------------------------------------------------------------------
 We have recently rebuilt the app and focused on our current feature and fix roadmap. Therefore, we are not currently accepting new issues or PRs: feel free to fork the repository for your own experiments. Thank you for your understanding and support.
 
-income and donations
+İncome and donations
 -------------------------------------------------------------------------------------------------------
 We will donate some of the proceeds to charities and companies.
 
 
-independence
+İndependence
 -------------------------------------------------------------------------------------------------------
 We heard about our independence on April 21, 2021, now we are taking new steps to become fully independent.
 
