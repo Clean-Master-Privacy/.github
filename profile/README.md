@@ -25,12 +25,49 @@ We heard about our independence on April 21, 2021, now we are taking new steps t
 
 We support Proton AG
 --------------------------------------------------------------------------------------------------------
-<div style="display: flex; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/8472e1a0-5605-404e-b906-1e8b69275595" height="100" style="margin-right: 10px;">
-    <span>
-        Thanks to Proton AG, we found our own identity and are now
-    </span>
-</div>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hareketli Metin Örneği</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+            position: relative;
+        }
+
+        .animated-text {
+            display: inline-block;
+            margin-left: 10px;
+            animation: move 5s linear infinite;
+        }
+
+        @keyframes move {
+            0% {
+                transform: translateX(0);
+            }
+            50% {
+                transform: translateX(20px); /* Sağ tarafa kaydırma */
+            }
+            100% {
+                transform: translateX(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="50" cy="50" r="40" fill="blue" />
+        </svg>
+        <span class="animated-text">
+            Thanks to Proton AG, we found our own identity and are now
+        </span>
+    </div>
+</body>
+</html>
 
 License
 --------------------------------------------------------------------------------------------------------
