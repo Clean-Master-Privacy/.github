@@ -2,8 +2,6 @@
 
 # Clean Master Privacy
 
-# Clean master privacy product belongs to gamestime102.
-
 Clean master privacy product was first created by 2 anonymous people who founded gamestime102; their code names are gamestime102 and gamestime102tv. gamestime102 team (organization) prepared a Kapıkulu for clean master privacy. The purpose of this Kapıkulu is to provide privacy and security.
 Although this army was disbanded over time, it was reactivated on April 21, 2021. Clean master privacy, a sub-unit of Kapıkulu, is sipahi, this sipahi is responsible for the security of the internet and the device. 
 
@@ -28,6 +26,8 @@ We heard about our independence on April 21, 2021, now we are taking new steps t
 @gamestime102 and @gamestime102-tv
 
 # License
+
+# Clean master privacy product belongs to gamestime102.
 
 Licensed by gamestime102 for 2025-2026 and beyond.
 #                                                     
