@@ -23,6 +23,10 @@ We will donate some of the proceeds to charities and companies.
 -------------------------------------------------------------------------------------------------------
 We heard about our independence on April 21, 2021, now we are taking new steps to become fully independent.
 
+People who keep the project alive
+--------------------------------------------------------------------------------------------------------
+@gamestime102 and @gamestime102-tv
+
 License
 --------------------------------------------------------------------------------------------------------
 Licensed by gamestime102 for 2025-2026 and beyond.
