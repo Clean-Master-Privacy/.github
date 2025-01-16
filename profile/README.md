@@ -25,38 +25,8 @@ We heard about our independence on April 21, 2021, now we are taking new steps t
 
 We support Proton AG
 --------------------------------------------------------------------------------------------------------
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <title>Geçişli Metin</title>
-</head>
-<body>
-    <div id="text-container">
-        <span id="text" style="display:none;">Bu metin bir geçiş ile görünecek.</span>
-    </div>
-    <button id="toggle-button">Göster/Gizle</button>
-    <script>
-        const text = document.getElementById('text');
-        const button = document.getElementById('toggle-button');
-        button.addEventListener('click', () => {
-            if (text.style.display === 'none') {
-                text.style.display = 'block';
-                setTimeout(() => {
-                    text.style.opacity = 1;
-                }, 10);
-            } else {
-                text.style.opacity = 0;
-                setTimeout(() => {
-                    text.style.display = 'none';
-                }, 500); // animasyon süresi
-            }
-        });
-        // başlangıç opaklığını ayarlama
-        text.style.opacity = 0;
-    </script>
-</body>
-</html>
+<img src="https://github.com/user-attachments/assets/8472e1a0-5605-404e-b906-1e8b69275595" height="100">  
+<txt src=Thanks to Proton AG, we found our own identity and are now>
 
 License
 --------------------------------------------------------------------------------------------------------
