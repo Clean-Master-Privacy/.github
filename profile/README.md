@@ -23,7 +23,7 @@ We heard about our independence on April 21, 2021, now we are taking new steps t
 
 We support Proton AG
 --------------------------------------------------------------------------------------------------------
-<img src="https://github.com/user-attachments/assets/8472e1a0-5605-404e-b906-1e8b69275595" alt="proton" size="300" height="100" width="1000" data-view-component="true"     class="proton">   # Thanks to Proton AG, we found our own identity and declared our full independence.
+<img src="https://github.com/user-attachments/assets/8472e1a0-5605-404e-b906-1e8b69275595" alt="proton" size="300" height="100" width="1000" data-view-component="true"     class="proton">   # Thanks to Proton AG, we found our own identity and declared our full independence. We thank them for what they have contributed to us.
 
 License
 --------------------------------------------------------------------------------------------------------
